@@ -1,3 +1,6 @@
+<div align="center">
+<img src="header.png" align="center" style="width: 100%" />
+</div>
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A full-stack software engineer</h3>
 
