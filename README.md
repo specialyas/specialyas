@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python and JavaScript**
 
-- 📫 How to reach me **holla2specialyusuf@gmail.com**
+- 📫 How to reach me **yusufabdulaziz081@gmail.com**
 
 - ⚡ Fun fact **I'm a Anime and a Real Madrid fan**
 
